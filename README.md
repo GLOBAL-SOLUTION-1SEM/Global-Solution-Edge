@@ -3,7 +3,9 @@ Link da simulação: https://wokwi.com/projects/399321327390121985
 ## Contato
 
 Bruno Biletsky  - RM: 554739
+
 Enrico Ricarte  - RM: 558571
+
 Victor Freire   - RM: 556191
 
 # Projeto global solution (oceano) - BitWise
